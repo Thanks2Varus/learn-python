@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+ss
 
 'a socket example which send echo message to server.'
 
